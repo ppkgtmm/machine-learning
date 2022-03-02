@@ -3,5 +3,5 @@ The purpose of this repo is to keep my machine learning course work offered by C
 intention to provide solutions to course leaners.
 
 ## :gear: Tools
-- [x] matlab - programming language
-- [x] matlab online - programming environment
+- [x] MATLAB : programming language
+- [x] MATLAB online : programming environment
